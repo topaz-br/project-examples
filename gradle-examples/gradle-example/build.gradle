@@ -30,7 +30,7 @@ allprojects {
     apply plugin: 'java'
   }
   group = 'org.jfrog.example.gradle'
-  version = unspecified
+  version = 
   status = 'Integration'
 }
 
